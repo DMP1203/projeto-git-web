@@ -1,4 +1,5 @@
 python
 CopiarEditar
 print("Hello, World!")
-commit ("Versão inicial do app") 
+print("Nova funcionalidade adicionada!")
+
